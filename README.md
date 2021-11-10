@@ -1,3 +1,3 @@
 # JS
 
-This repo cointains all the javascript stuff.
+This repo cointains javascript stuff.
